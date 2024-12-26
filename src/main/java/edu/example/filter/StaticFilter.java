@@ -8,6 +8,10 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * 防止直接访问静态页面
+ * @author 惜
+ * */
 @WebFilter("/*")
 public class StaticFilter implements Filter {
     private List<String> white;
