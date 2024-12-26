@@ -9,7 +9,11 @@
           <element id="module-output" name="java-web-student-housion-manager" />
         </element>
       </element>
+<<<<<<< HEAD
       <element id="javaee-facet-resources" facet="java-web-student-housion-manager/web/Web" />
+=======
+      <element id="javaee-facet-resources" facet="JavaWebStudentHousionManager/web/Web" />
+>>>>>>> 025710f4f61a1b5e590d0b3d0a200557455c2623
     </root>
   </artifact>
 </component>
