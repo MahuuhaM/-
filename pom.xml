@@ -7,6 +7,7 @@
     <groupId>org.example</groupId>
     <artifactId>JavaWebStudentHousionManager</artifactId>
     <version>1.0-SNAPSHOT</version>
+<<<<<<< HEAD
     <build>
         <plugins>
             <plugin>
@@ -19,6 +20,8 @@
             </plugin>
         </plugins>
     </build>
+=======
+>>>>>>> 8300a5d297b86dce1b175b344552a0983440e9cf
 
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
